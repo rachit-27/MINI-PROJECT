@@ -9,7 +9,7 @@ bool prime(int n){
     }
     return 1;
 }
-
+// changes made 
 int main(){
     int n;
     cout<<"Enter the number:";
