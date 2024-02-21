@@ -9,12 +9,7 @@ int main(){
      cout<<"Value of b is:";
      cin>>b;
     
-    // if(a>0){
-    //     cout<<"A is positive";
-    // }
-    // else{
-    //     cout<<"A is negative";
-    // }
+   
     
     if(a>b){
         cout<<"Value of a is greater than b";
