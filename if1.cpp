@@ -7,7 +7,7 @@ int main(){
      cout<<"Value of a is:";
      cin>>a;
      cout<<"Value of b is:";
-     cin>>b;
+     
     
    
     
